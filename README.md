@@ -1,4 +1,4 @@
-# Marmo 3D
+# Marmo3D
 Files for 3D printing and visualization from our manuscript "Multi-area recordings and optogenetics in the awake, behaving marmoset".
 https://www.biorxiv.org/content/10.1101/2021.10.30.466578v1
 
